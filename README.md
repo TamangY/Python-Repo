@@ -1,3 +1,3 @@
 # hello-world
 My first repository.
-This the edit to understand the repository branching.
+This edit is to understand the repository branching.
